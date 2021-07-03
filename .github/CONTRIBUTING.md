@@ -1,7 +1,7 @@
 # Contributing to the Migaku Dictionary Addon 
 
 ## Important checks
-  - Before create any pull requests, please open a issue explaining the situation
+  - Before creating any pull requests, please open an issue explaining the situation
   - Be sure to follow the tslint rules and run the prettier
   - Be sure **before open the pull request**, to test the existent code and/or create tests if you made a new feature or
 changed a already existing one.
